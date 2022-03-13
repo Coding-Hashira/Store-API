@@ -1,0 +1,131 @@
+[
+  {
+    "name": "Smartphone",
+    "price": 12000,
+    "company": "Vivo",
+    "rating": 4.2
+  },
+  {
+    "name": "Laptop",
+    "price": 35000,
+    "company": "HP",
+    "rating": 4.5
+  },
+  {
+    "name": "And Then There Were None",
+    "price": 180,
+    "company": "JP Publications",
+    "rating": 4.1
+  },
+  {
+    "name": "Vocal Microphone",
+    "price": 125,
+    "company": "Juarez",
+    "rating": 3.9
+  },
+  {
+    "name": "Smartwatch",
+    "price": 7999,
+    "company": "Redmi",
+    "rating": 4.6
+  },
+  {
+    "name": "Television",
+    "price": 11999,
+    "company": "Samsung",
+    "rating": 4.5
+  },
+  {
+    "name": "Cellphone",
+    "price": 2999,
+    "company": "LAVA"
+  },
+  {
+    "name": "Refrigerator",
+    "price": 9999,
+    "featured": true,
+    "company": "Whirlpool"
+  },
+  {
+    "name": "iPad",
+    "price": 49999,
+    "featured": true,
+    "company": "apple"
+  },
+
+  {
+    "name": "Toy Guns",
+    "price": 499,
+    "company": "Nerf"
+  },
+  {
+    "name": "Watch",
+    "price": 100000,
+    "featured": true,
+    "company": "Titan"
+  },
+  {
+    "name": "Cup",
+    "price": 79,
+    "company": "none"
+  },
+  {
+    "name": "Rain Bag",
+    "price": 599,
+    "company": "Adidas"
+  },
+  {
+    "name": "Ludo",
+    "price": 20,
+    "company": "liddy"
+  },
+  {
+    "name": "Bedsheet",
+    "price": 399,
+    "company": "none"
+  },
+  {
+    "name": "Type-C Charger",
+    "price": 149,
+    "company": "Oppo"
+  },
+  {
+    "name": "Sport Shoes",
+    "price": 299,
+    "featured": true,
+    "company": "Nike"
+  },
+  {
+    "name": "RCB Jersey",
+    "price": 799,
+    "featured": true,
+    "company": "Puma"
+  },
+  {
+    "name": "PS4",
+    "price": 49999,
+    "company": "Play Station"
+  },
+  {
+    "name": "Trousers",
+    "price": 299,
+    "company": "Nike"
+  },
+  {
+    "name": "Ear Buds",
+    "price": 999,
+    "company": "BoAt"
+  },
+  {
+    "name": "Headphones",
+    "price": 599,
+    "featured": true,
+    "company": "BoAt"
+  },
+  {
+    "name": "Cricket Bat",
+    "price": 249,
+    "featured": true,
+    "company": "MRF"
+  }
+]
