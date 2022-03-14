@@ -3,66 +3,77 @@
     "name": "Smartphone",
     "price": 12000,
     "company": "Vivo",
-    "rating": 4.2
+    "rating": 4.2,
+    "category": "Electronics"
   },
   {
     "name": "Laptop",
     "price": 35000,
     "company": "HP",
-    "rating": 4.5
+    "rating": 4.5,
+    "category": "Electronics"
   },
   {
     "name": "And Then There Were None",
     "price": 180,
     "company": "JP Publications",
-    "rating": 4.1
+    "rating": 4.1,
+    "category": "Entertainment"
   },
   {
     "name": "Vocal Microphone",
     "price": 125,
     "company": "Juarez",
-    "rating": 3.9
+    "rating": 3.9,
+    "category": "Electronics"
   },
   {
     "name": "Smartwatch",
     "price": 7999,
     "company": "Redmi",
-    "rating": 4.6
+    "rating": 4.6,
+    "category": "Electronics"
   },
   {
     "name": "Television",
     "price": 11999,
     "company": "Samsung",
-    "rating": 4.5
+    "rating": 4.5,
+    "category": "Electronics"
   },
   {
     "name": "Cellphone",
     "price": 2999,
-    "company": "LAVA"
+    "company": "LAVA",
+    "category": "Electronics"
   },
   {
     "name": "Refrigerator",
     "price": 9999,
     "featured": true,
-    "company": "Whirlpool"
+    "company": "Whirlpool",
+    "category": "Electronics"
   },
   {
     "name": "iPad",
     "price": 49999,
     "featured": true,
-    "company": "apple"
+    "company": "apple",
+    "category": "Electronics"
   },
 
   {
     "name": "Toy Guns",
     "price": 499,
-    "company": "Nerf"
+    "company": "Nerf",
+    "category": "Toys & Games"
   },
   {
     "name": "Watch",
     "price": 100000,
     "featured": true,
-    "company": "Titan"
+    "company": "Titan",
+    "category": "Accessories"
   },
   {
     "name": "Cup",
@@ -75,57 +86,49 @@
     "company": "Adidas"
   },
   {
-    "name": "Ludo",
-    "price": 20,
-    "company": "liddy"
-  },
-  {
-    "name": "Bedsheet",
-    "price": 399,
-    "company": "none"
-  },
-  {
-    "name": "Type-C Charger",
-    "price": 149,
-    "company": "Oppo"
-  },
-  {
     "name": "Sport Shoes",
     "price": 299,
     "featured": true,
-    "company": "Nike"
+    "company": "Nike",
+    "category": "Fashion"
   },
   {
     "name": "RCB Jersey",
     "price": 799,
     "featured": true,
-    "company": "Puma"
+    "company": "Puma",
+    "category": "Fashion"
   },
   {
     "name": "PS4",
     "price": 49999,
-    "company": "Play Station"
+    "company": "Play Station",
+    "category": "Electronics"
   },
   {
     "name": "Trousers",
     "price": 299,
-    "company": "Nike"
+    "company": "Nike",
+    "category": "Fashion"
   },
   {
     "name": "Ear Buds",
     "price": 999,
-    "company": "BoAt"
+    "company": "BoAt",
+    "category": "Electronics"
   },
   {
     "name": "Headphones",
     "price": 599,
     "featured": true,
-    "company": "BoAt"
+    "company": "BoAt",
+    "category": "Electronics"
   },
   {
     "name": "Cricket Bat",
     "price": 249,
     "featured": true,
-    "company": "MRF"
+    "company": "MRF",
+    "category": "Sports"
   }
 ]
