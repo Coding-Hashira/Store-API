@@ -21,6 +21,15 @@ const ProductSchema = new mongoose.Schema({
     type: String,
     default: null,
   },
+  image: {
+    type: String,
+    default: null,
+  },
+  description: {
+    type: String,
+    minlength: 50,
+    maxlength: 500,
+  },
   category: {
     type: String,
     enum: {
@@ -32,6 +41,7 @@ const ProductSchema = new mongoose.Schema({
         "Accessories",
         "Electronics",
         "Entertainment",
+        "Books",
         "Others",
       ],
       message: "{VALUE} is not a valid category!",
