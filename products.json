@@ -1,134 +1,21 @@
 [
   {
-    "name": "Smartphone",
-    "price": 12000,
-    "company": "Vivo",
+    "name": "And Then There Were None by Agatha Christie",
+    "category": "Books",
+    "company": "HarperCollins Publishers",
     "rating": 4.2,
-    "category": "Electronics"
+    "price": 158,
+    "description": "Considered the best mystery novel ever written by many readers, And Then There Were None is the story of ten strangers, each lured to Indian Island by a mysterious host. Once his guests have arrived, the host accuses each person of murder.",
+    "image": "https://rukminim2.flixcart.com/image/416/416/kzegk280/book/y/a/r/and-then-there-were-none-original-imagbfgfepmbaszw.jpeg?q=70"
   },
   {
-    "name": "Laptop",
-    "price": 35000,
-    "company": "HP",
-    "rating": 4.5,
-    "category": "Electronics"
-  },
-  {
-    "name": "And Then There Were None",
-    "price": 180,
-    "company": "JP Publications",
-    "rating": 4.1,
-    "category": "Entertainment"
-  },
-  {
-    "name": "Vocal Microphone",
-    "price": 125,
-    "company": "Juarez",
-    "rating": 3.9,
-    "category": "Electronics"
-  },
-  {
-    "name": "Smartwatch",
-    "price": 7999,
-    "company": "Redmi",
-    "rating": 4.6,
-    "category": "Electronics"
-  },
-  {
-    "name": "Television",
-    "price": 11999,
-    "company": "Samsung",
-    "rating": 4.5,
-    "category": "Electronics"
-  },
-  {
-    "name": "Cellphone",
-    "price": 2999,
-    "company": "LAVA",
-    "category": "Electronics"
-  },
-  {
-    "name": "Refrigerator",
-    "price": 9999,
-    "featured": true,
-    "company": "Whirlpool",
-    "category": "Electronics"
-  },
-  {
-    "name": "iPad",
-    "price": 49999,
-    "featured": true,
-    "company": "apple",
-    "category": "Electronics"
-  },
-
-  {
-    "name": "Toy Guns",
-    "price": 499,
-    "company": "Nerf",
-    "category": "Toys & Games"
-  },
-  {
-    "name": "Watch",
-    "price": 100000,
-    "featured": true,
-    "company": "Titan",
-    "category": "Accessories"
-  },
-  {
-    "name": "Cup",
-    "price": 79,
-    "company": "none"
-  },
-  {
-    "name": "Rain Bag",
-    "price": 599,
-    "company": "Adidas"
-  },
-  {
-    "name": "Sport Shoes",
-    "price": 299,
-    "featured": true,
-    "company": "Nike",
-    "category": "Fashion"
-  },
-  {
-    "name": "RCB Jersey",
-    "price": 799,
-    "featured": true,
-    "company": "Puma",
-    "category": "Fashion"
-  },
-  {
-    "name": "PS4",
-    "price": 49999,
-    "company": "Play Station",
-    "category": "Electronics"
-  },
-  {
-    "name": "Trousers",
-    "price": 299,
-    "company": "Nike",
-    "category": "Fashion"
-  },
-  {
-    "name": "Ear Buds",
-    "price": 999,
-    "company": "BoAt",
-    "category": "Electronics"
-  },
-  {
-    "name": "Headphones",
-    "price": 599,
-    "featured": true,
-    "company": "BoAt",
-    "category": "Electronics"
-  },
-  {
-    "name": "Cricket Bat",
-    "price": 249,
-    "featured": true,
-    "company": "MRF",
-    "category": "Sports"
+    "name": "realme Band 2",
+    "category": "Electronics",
+    "company": "realme",
+    "rating": 4.0,
+    "price": 1999,
+    "description": "Heart Rate Monitor, Daily Steps Count, Calories Burned, Distance Covered, Sleep Monitor, Oxygen Level Monitor, Camera Shutter for Capturing Photos, Music Controls on Smartphone.",
+    "image": "https://rukminim2.flixcart.com/image/416/416/ku1k4280/smart-band-tag/f/g/x/tft-lcd-no-free-size-yes-yes-rmw2010-android-ios-realme-yes-original-imag78whgn6rumu9.jpeg?q=70",
+    "featured": true
   }
 ]
