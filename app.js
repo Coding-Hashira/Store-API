@@ -4,7 +4,6 @@ const express = require("express");
 const notFoundMiddleware = require("./middleware/not-found");
 const errorMiddleware = require("./middleware/error-handler");
 const connectToDb = require("./db/connect");
-const req = require("express/lib/request");
 const router = require("./routes/products");
 const PORT = process.env.PORT || 3000;
 
